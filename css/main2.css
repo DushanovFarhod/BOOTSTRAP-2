@@ -1,0 +1,43 @@
+.yarim{
+    border-radius: 50px;
+    background: linear-gradient(20deg,#ffaa00,#ff4800);
+}
+.yarim1{
+    border-radius: 50px;
+    background: linear-gradient(20deg, #f600ff, #860aff);
+}
+.yarim2{
+    border-radius: 50px;
+    background: linear-gradient(20deg, #0f76ff,#0032c7);
+}
+.yarim3{
+    border-radius: 50px;
+    background: linear-gradient(20deg, #0f6fff,#00ff65);
+}
+.btn-color{
+    color: white;
+}
+.btn-margn{
+    margin-left: 400px;
+}
+.farhod{
+    background-color: transparent;
+}
+.btn-kok{
+    background: #29ffbc;
+}
+.btn-pol{
+    background: #da48ff;
+}
+.btn-radius{
+    border-radius: 50px;
+}
+.btn-outline-pol{
+    border: 2px solid #da48ff;
+    color: #da48ff;
+}
+.btn-kok1{
+    background-color: white;
+    border: 2px solid  #29ffbc;
+    color:  #29ffbc;
+}
